@@ -169,3 +169,20 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Generated calendar file
+football_calendar.ics
+
+# Venv
+calendarenv/
